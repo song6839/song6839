@@ -1,7 +1,6 @@
 - 👋 Hi, I’m a xjtluer
 - 👀 I’m interested in sports
 - 🌱 I’m currently learning python，programming
-- 💞️ I’m looking to collaborate on undergraduates
 - 📫 How to reach me : jincheng.song24@student.xjtlu.edu.cn
 
 
